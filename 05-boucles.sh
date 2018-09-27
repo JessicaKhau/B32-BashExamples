@@ -14,6 +14,7 @@ done
 
 resultat=o
 
+# -o = OR, -a = AND
 while test $resultat = o;do
 read -p "Entrez une lettre" resultat
 done
