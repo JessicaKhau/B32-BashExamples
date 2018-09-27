@@ -28,5 +28,5 @@ if test $lettre != "a";then
 	echo "la lettre n'est pas a"
 fi
 
-
+# ctrl+c = numero de la ligne 
 
